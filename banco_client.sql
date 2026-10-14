@@ -15,7 +15,7 @@ DESCRIBE client;
 insert into client (nome, telefone, servico, 
 valor)
 VALUES ('Maria Eduarda', '(11) 9992-5551',
-'Manicure Simles',45.00);
+'Manicure Simples',45.00);
 
 SELECT*FROM client;
 
